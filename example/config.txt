@@ -1,0 +1,2 @@
+Prefix plugins/Histogram/example/
+Plugin Histogram inputfile GBM.rds outputfile output.png
